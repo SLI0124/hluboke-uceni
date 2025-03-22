@@ -2,4 +2,4 @@
 **/best.weights.h5
 datasets/
 /tasks/.ipynb_checkpoints/
-/tasks/data
+**/data
