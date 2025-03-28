@@ -3,3 +3,4 @@
 datasets/
 /tasks/.ipynb_checkpoints/
 **/data
+**/tasks/glove**
