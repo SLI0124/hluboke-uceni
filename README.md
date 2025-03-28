@@ -53,3 +53,18 @@ pip3 install torch torchvision torchaudio --index-url https://download.pytorch.o
 ```bash
 pip install -r requirements.txt
 ```
+
+#### Ověření instalace
+
+##### TensorFlow
+
+```bash
+python -c "import tensorflow as tf; print(tf.config.list_physical_devices('GPU'))"
+``` 
+
+##### PyTorch
+
+```bash
+python -c "import torch; print(torch.__version__)"
+python -c "import torch; print(torch.cuda.is_available())"
+```
