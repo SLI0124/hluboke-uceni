@@ -1,6 +1,6 @@
 .idea/
-**/best.weights.h5
 datasets/
 /tasks/.ipynb_checkpoints/
 **/data
 **/tasks/glove**
+**/tasks/**/*.h5
