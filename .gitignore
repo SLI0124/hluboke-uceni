@@ -4,3 +4,4 @@ datasets/
 **/data
 **/tasks/glove**
 **/tasks/**/*.h5
+**/tasks/**/*.tsv
