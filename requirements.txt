@@ -27,5 +27,4 @@ transformers
 datasets
 huggingface_hub
 evaluate
-pytorch-lightning
 torchinfo
