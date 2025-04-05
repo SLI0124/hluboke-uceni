@@ -6,3 +6,4 @@ datasets/
 **/tasks/glove**
 **/tasks/**/*.h5
 **/tasks/**/*.tsv
+projects/lightning_logs
