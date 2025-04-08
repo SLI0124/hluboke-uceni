@@ -28,3 +28,4 @@ datasets
 huggingface_hub
 evaluate
 torchinfo
+attention
