@@ -30,3 +30,4 @@ evaluate
 torchinfo
 attention
 kagglehub
+tf-keras
