@@ -31,3 +31,4 @@ torchinfo
 attention
 kagglehub
 tf-keras
+ultralytics
