@@ -1,9 +1,9 @@
 .idea/
 .vscode/
 datasets/
-/tasks/.ipynb_checkpoints/
 **/data
-**/tasks/glove**
-**/tasks/**/*.h5
 **/tasks/**/*.tsv
 /projects/*.pth
+/tasks/*
+!/tasks/**/*.ipynb
+/tasks/**/.ipynb_checkpoints/
