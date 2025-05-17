@@ -9,8 +9,6 @@ předmětu.
 
 ## Cvičení 1
 
-## Exercise 1
-
 V tomto cvičení prozkoumáme základní koncepty TensorFlow 2 a Keras pomocí praktických příkladů s datasetem MNIST
 
 - tzv. "Hello World" hlubokého učení. Zaměříme se na:
