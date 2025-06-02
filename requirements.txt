@@ -32,3 +32,4 @@ attention
 kagglehub
 tf-keras
 ultralytics
+wordcloud
