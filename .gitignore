@@ -7,3 +7,4 @@ datasets/
 /tasks/*
 !/tasks/**/*.ipynb
 /tasks/**/.ipynb_checkpoints/
+/projects/models/*
