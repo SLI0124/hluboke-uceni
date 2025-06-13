@@ -33,3 +33,5 @@ kagglehub
 tf-keras
 ultralytics
 wordcloud
+tf2onnx
+onnxruntime
